@@ -14,13 +14,7 @@
 // Your function should return length = 5, with the first five elements of nums being modified to 0, 1, 2, 3, and 4 respectively.
 // It doesn't matter what values are set beyond the returned length.
 
-// [1,1,2]
-
-// ex. [0,0,1,1,1,2,2,3,3,4]
-
-var removeDuplicates = 
-
-function removeDuplicates(nums) {
+var removeDuplicates = function (nums) {
   let i = 0;
   let j = 1;
 
@@ -29,18 +23,16 @@ function removeDuplicates(nums) {
 
     if (i > nums.length || j > nums.length) return;
 
-    if (nums[i] === nums[j]) {
-      // console.log("i === j")
+    if (nums[i] === nums[j]) {      
       // if we have two duplicates next to eachother, j++
+      // console.log("i === j")
       j++;
-      // console.log("j++");
       compare(nums);
     }
 
     if (nums[i] !== nums[j]) {
-      // console.log("i !== j")
+      // if i !== j
       if (j-i !== 1) {
-        // console.log("and i is NOT next to j")
         // and they're not next to eachother
         // we've skipped some duplicates, let's remove them
         nums.splice(i, j-i-1); 
@@ -48,7 +40,6 @@ function removeDuplicates(nums) {
         j = i+1;
         compare(nums);
       }
-      // console.log("and i IS next to j")
       // otherwise, we just have two non duplicate numbers next to eachother
       // increment both counters
       i++;
