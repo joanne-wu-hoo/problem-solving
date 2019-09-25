@@ -41,6 +41,6 @@ function meetingPlanner(slotsA, slotsB, dur){
 // is O(N⋅M). 
 
 // Since the arrays are sorted by the slots’ start times, we can iterate over both arrays in a single loop. 
-// We use two indices, one for each array, while incrementing one index at a time according the following rules:
-// - If there is a minimal overlap of dur between two given times slots, return the pair [start, start + dur]
+// We use two indices, one for each array, while incrementing one index at a time according to the following rules:
+// - If we can fit the dur in the two times slots, return the pair [start, start + dur]
 // - Otherwise, increment the index of the array with the earlier time slot.
