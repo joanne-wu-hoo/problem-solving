@@ -19,19 +19,17 @@
 // Note that the order of those five elements can be arbitrary.
 // It doesn't matter what values are set beyond the returned length.
 
+function removeElement(arr, removeVal){
+  let insertIdx = 0;
 
-function removeElement(nums, val){
-  for (let i = 0; i < nums.length; i++){
-    if (nums[i] === val){
-      nums.splice(i,1);
-      i--; // to acount for the removal of an element
+  for (let val of arr){
+    if (val !== removeVal){
+      arr[insertIdx] = val;
+      insertIdx++;
     }
   }
 
-  return nums.length;
+  arr.splice(insertIdx);
+  // console.log(arr);
+  return arr.length;
 }
-
-/**
- * iterate through nums
- * if nums[i] === val, then nums.splice(i,1)
- */
