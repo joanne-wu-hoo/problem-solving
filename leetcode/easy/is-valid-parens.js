@@ -14,7 +14,7 @@ function isValidParens(s){
       stack.push(val);
     } else {
       // check if current val is the closing bracket for last val
-      et lastVal = stack[stack.length-1];
+      let lastVal = stack[stack.length-1];
       if (val !== bracketMap[lastVal]){
         // if current val does not close last seen bracket, invalid expression
         return false;
