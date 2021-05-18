@@ -1,13 +1,13 @@
-Easy
+**Easy**
 
-1) [9](https://leetcode.com/problems/palindrome-number/): Palindrome
-2) [20](https://leetcode.com/problems/valid-parentheses/): Valid parens
-3) [14](https://leetcode.com/problems/longest-common-prefix/): Longest common prefix
-4) [26](https://leetcode.com/problems/remove-duplicates-from-sorted-array/): Remove duplicates from sorted array
-5) [23](https://leetcode.com/problems/roman-to-integer/): Roman to Integer
-6. [27](https://leetcode.com/problems/remove-element/): Remove element
+1) [Palindrome](https://leetcode.com/problems/palindrome-number/) (#9)
+2) [Valid parens](https://leetcode.com/problems/valid-parentheses/) (#20)
+3) [Longest common prefix](https://leetcode.com/problems/longest-common-prefix/) (#14)
+4) [Remove duplicates from sorted array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) (#26)
+5) [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) (#23)
+6. [Remove element](https://leetcode.com/problems/remove-element/) (#27)
 
-Medium
-1. [34](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/): First & last in sorted array 
-2. [12](https://leetcode.com/problems/integer-to-roman/): Integer to Roman
-3. [3](https://leetcode.com/problems/longest-substring-without-repeating-characters/): Longest substring without repeating letters
+**Medium**
+1. [First & last in sorted array ](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) (#34)
+2. [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) (#12)
+3. [Longest substring without repeating letters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) (#3)
