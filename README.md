@@ -7,6 +7,7 @@
 5. [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)(#23)
 6. [Remove element](https://leetcode.com/problems/remove-element/) (#27)
 7. [Path sum](https://leetcode.com/problems/path-sum) (#112) 
+8. [Max depth](https://leetcode.com/problems/maximum-depth-of-binary-tree/) (#104)
 
 **Medium**
 1. [First & last in sorted array ](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) (#34)
