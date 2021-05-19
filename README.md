@@ -9,6 +9,7 @@
 7. [Remove element](https://leetcode.com/problems/remove-element/) (#27)
 8. [Path sum](https://leetcode.com/problems/path-sum) (#112) 
 9. [Max depth](https://leetcode.com/problems/maximum-depth-of-binary-tree/) (#104)
+10. [Two Sum (Sorted Input)](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) (#167)
 
 **Medium**
 1. [First & last in sorted array ](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) (#34)
