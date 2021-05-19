@@ -1,22 +1,18 @@
 // https://leetcode.com/problems/two-sum/
 
 // Brute force
-const twoSum = function(nums, target) {
-    let p1 = 0;
-    let p2 = 1;
-    
-    while (p1 < nums.length){
-        while (p2 < nums.length){
-            let numToFind = target - nums[p1];
-            if (nums[p2] === numToFind){
-                return [p1, p2]
+const twoSum = function(nums, target){    
+    for (let i = 0; i < nums.length; i++){
+        let currentVal = nums[i];
+        let ntf = target - currentVal;
+        for (let j = i+1; j < nums.length; j++){
+            if (nums[j] === ntf){
+                return [i,j]
             }
-            p2++;       
         }
-     p1++;
-     p2 = p1+1;
     }
-};
+    return null;
+}
 
 // Optimized
 const twoSum = function(nums, target){
