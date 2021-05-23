@@ -46,6 +46,7 @@ var reverseBetween = function(head, left, right) {
      if (left > 1){
        return head;
      } else {
+     // if left = 1, meaning we reverse from the start of the list, then "head" is no longer the beginning of the list. instead we need to return newList
        return newList;
      }
 };
