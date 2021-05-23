@@ -12,8 +12,8 @@
 10. [Two Sum (Sorted Input)](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) (#167)
 
 **Medium**
-5. [Add 2 Numbers (linked list)](https://leetcode.com/problems/add-two-numbers/) (#2)
-6. [Longest substring without repeating letters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) (#3)
-8. [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) (#12)
-9. [First & last in sorted array ](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) (#34)
-4. [Reverse linked list between m and n](https://leetcode.com/problems/reverse-linked-list-ii/submissions/) (#92)
+1. [Add 2 Numbers (linked list)](https://leetcode.com/problems/add-two-numbers/) (#2)
+2. [Longest substring without repeating letters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) (#3)
+3. [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) (#12)
+4. [First & last in sorted array ](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) (#34)
+5. [Reverse linked list between m and n](https://leetcode.com/problems/reverse-linked-list-ii/submissions/) (#92)
