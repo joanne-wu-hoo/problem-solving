@@ -4,34 +4,21 @@
 
 // "abcabcbb"
 
-function findLongestSubstring(s, count=1, i=0, j=1){
-  if (i > s.length || j > s.length) return count;
 
-  if (s[i] === s[j]){
-    i++;
-    j++;
-    count=0;
-    return findLongestSubstring(s, count, i, j);
+const lengthOfLongestSubstring = function(s){
+  let left = 0;
+  let maxLength = 0;
+  let seen = new Set();
+  
+  for (let right = 0; right < s.length; right++){
+    while (seen.has(s[right])){
+      seen.delete(s[left]);
+      left++;
+    } 
+    seen.add(s[right])
+    maxLength = Math.max(maxLength, right-left+1)
+  
   }
-
-  if (s[i] !== s[j]){
-    count = count + 1;
-    j++;
-    return findLongestSubstring(s, count, i, j);
-  }
-
+  
+  return maxLength;
 }
-
-/** Approach
- * initialize count = 0; 
- * initialize pointers at i=0 and j=1
- *  - if i === j, i++, j++, count = 0, recurse while i < length
- *  - if i !== j, j++, count++
- * 
- * return substring
- */
-
- /** Big O Analysis
-  * Time complexity: O(n)
-  * Space complexity: O(n)
-  */
