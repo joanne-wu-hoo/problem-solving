@@ -1,5 +1,6 @@
 // https://leetcode.com/problems/merge-two-sorted-lists/
 
+// https://leetcode.com/problems/merge-two-sorted-lists/discuss/341711/Clean-Javascript
 
 var mergeTwoLists = (l1, l2) => {
   let newList = new ListNode();
