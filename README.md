@@ -5,7 +5,7 @@
 | 2. | [Palindrome](https://leetcode.com/problems/palindrome-number/) | 9 | [Link](https://github.com/joanne-wu-hoo/problem-solving/blob/master/leetcode/easy/9-is-palindrome.js) |
 | 3. | [Valid parens](https://leetcode.com/problems/valid-parentheses/)| 20 | [Link](https://github.com/joanne-wu-hoo/problem-solving/blob/master/leetcode/easy/20-is-valid-parens.js) |
 | 4. | [Longest common prefix](https://leetcode.com/problems/longest-common-prefix/)| 14 | [Link](https://github.com/joanne-wu-hoo/problem-solving/blob/master/leetcode/easy/14-longest-common-prefix.js) |
-| 5. | [Remove duplicates from sorted array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | 26 | [Lihttps://github.com/joanne-wu-hoo/problem-solving/blob/master/leetcode/easy/26-remove-dups-in-place.js(url) |
+| 5. | [Remove duplicates from sorted array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | 26 | [Link](https://github.com/joanne-wu-hoo/problem-solving/blob/master/leetcode/easy/26-remove-dups-in-place.js) |
 | 6. | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)| 23 | Link |
 | 7. | [Remove element](https://leetcode.com/problems/remove-element/) | 27  | Link |
 | 8. | [Path sum](https://leetcode.com/problems/path-sum)| 112 | Link |
