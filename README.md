@@ -1,17 +1,18 @@
 **Easy**
-
-1. [Two Sum](https://leetcode.com/problems/two-sum/) (#1)
-2. [Palindrome](https://leetcode.com/problems/palindrome-number/) (#9)
-3. [Valid parens](https://leetcode.com/problems/valid-parentheses/) (#20)
-4. [Longest common prefix](https://leetcode.com/problems/longest-common-prefix/) (#14)
-5. [Remove duplicates from sorted array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) (#26)
-6. [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)(#23)
-7. [Remove element](https://leetcode.com/problems/remove-element/) (#27)
-8. [Path sum](https://leetcode.com/problems/path-sum) (#112) 
-9. [Max depth](https://leetcode.com/problems/maximum-depth-of-binary-tree/) (#104)
-10. [Two Sum (Sorted Input)](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) (#167)
-11. [Merge Two Sorted Linked Lists](https://leetcode.com/problems/merge-two-sorted-lists/) (#21)
-12. [Best time to buy and sell stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) (#121)
+|     | Problem | Leetcode # | Solution |
+| --- | ---     | ---        | ---      |
+| 1. | [Two Sum](https://leetcode.com/problems/two-sum/) | 1 | [Link](https://github.com/joanne-wu-hoo/problem-solving/blob/master/leetcode/easy/1-two-sum.js) |
+| 2. | [Palindrome](https://leetcode.com/problems/palindrome-number/) | 9 | Link |
+| 3. | [Valid parens](https://leetcode.com/problems/valid-parentheses/)| 20 | Link |
+| 4. | [Longest common prefix](https://leetcode.com/problems/longest-common-prefix/)| 14 | Link |
+| 5. | [Remove duplicates from sorted array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | 26 | Link |
+| 6. | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)| 23 | Link |
+| 7. | [Remove element](https://leetcode.com/problems/remove-element/) | 27  | Link |
+| 8. | [Path sum](https://leetcode.com/problems/path-sum)| 112 | Link |
+| 9. | [Max depth of binary tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)| 104 | Link |
+| 10. | [Two Sum (Sorted Input)](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)| 167 | Link |
+| 11. | [Merge Two Sorted Linked Lists](https://leetcode.com/problems/merge-two-sorted-lists/)| 21 | Link |
+| 12. | [Best time to buy and sell stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)| 121 | Link |
 
 **Medium**
 1. [Add 2 Numbers (linked list)](https://leetcode.com/problems/add-two-numbers/) (#2)
