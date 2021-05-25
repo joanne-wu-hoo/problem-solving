@@ -10,6 +10,7 @@
 8. [Path sum](https://leetcode.com/problems/path-sum) (#112) 
 9. [Max depth](https://leetcode.com/problems/maximum-depth-of-binary-tree/) (#104)
 10. [Two Sum (Sorted Input)](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) (#167)
+11. [Merge Two Sorted Linked Lists](https://leetcode.com/problems/merge-two-sorted-lists/) (#21)
 
 **Medium**
 1. [Add 2 Numbers (linked list)](https://leetcode.com/problems/add-two-numbers/) (#2)
