@@ -20,3 +20,11 @@
 3. [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) (#12)
 4. [First & last in sorted array ](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) (#34)
 5. [Reverse linked list between m and n](https://leetcode.com/problems/reverse-linked-list-ii/submissions/) (#92)
+
+
+**Reference**
+| Description | Code |
+| ---     | ---  |
+| 2D Array DFS Traversal   | [Link](https://github.com/joanne-wu-hoo/problem-solving/blob/master/2d-array-dfs-traversal.js)      |
+| Tree Traversal | [Link](https://github.com/joanne-wu-hoo/problem-solving/blob/master/tree-traversal.js)|
+| Frequency counter | [Link](https://github.com/joanne-wu-hoo/problem-solving/blob/master/using-freq-map.js) |
