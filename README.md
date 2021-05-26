@@ -32,3 +32,5 @@
 | 2D Array BFS Traversal | [Link](https://github.com/joanne-wu-hoo/problem-solving/blob/master/2d-array-bfs-traversal.js) |
 | Tree Traversal | [Link](https://github.com/joanne-wu-hoo/problem-solving/blob/master/tree-traversal.js)|
 | Frequency counter | [Link](https://github.com/joanne-wu-hoo/problem-solving/blob/master/using-freq-map.js) |
+
+| Logic truth table | [Link](https://github.com/joanne-wu-hoo/problem-solving/blob/master/logic-truth-table)
