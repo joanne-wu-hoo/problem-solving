@@ -20,6 +20,7 @@
 3. [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) (#12)
 4. [First & last in sorted array ](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) (#34)
 5. [Reverse linked list between m and n](https://leetcode.com/problems/reverse-linked-list-ii/submissions/) (#92)
+6. [Min parens to remove](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/submissions/) (#1249)
 
 
 **Reference**
