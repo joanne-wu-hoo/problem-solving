@@ -1,0 +1,11 @@
+Truth Table
+T && T => True
+T && F => False
+F && T => False
+F && F => False
+
+T || T => True
+T || F => True
+F || T => True
+F || F => False
+
