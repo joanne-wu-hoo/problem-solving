@@ -15,12 +15,14 @@
 | 12. | [Best time to buy and sell stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)| 121 | Link |
 
 **Medium**
-1. [Add 2 Numbers (linked list)](https://leetcode.com/problems/add-two-numbers/) (#2)
-2. [Longest substring without repeating letters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) (#3)
-3. [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) (#12)
-4. [First & last in sorted array ](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) (#34)
-5. [Reverse linked list between m and n](https://leetcode.com/problems/reverse-linked-list-ii/submissions/) (#92)
-6. [Min parens to remove](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/submissions/) (#1249)
+|     | Problem | Leetcode # | Solution |
+| --- | ---     | ---        | ---      |
+| 1 | [Add 2 Numbers (linked list)](https://leetcode.com/problems/add-two-numbers/)      | 2      |Link     |
+| 2 | [Longest substring without repeating letters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)    | 3    | Link      |
+| 3 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/)   | 12   | Link      |
+| 4 | [First & last in sorted array ](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | 34   | Link      |
+| 5 | [Reverse linked list between m and n](https://leetcode.com/problems/reverse-linked-list-ii/submissions/)| 92  | Link      |
+| 6 | [Min parens to remove](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/submissions/)| 1249  | Link      |
 
 
 **Reference**
