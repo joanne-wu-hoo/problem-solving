@@ -12,7 +12,7 @@
 | 9 | [Max depth of binary tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)| 104 | Link |
 | 10 | [Two Sum (Sorted Input)](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)| 167 | Link |
 | 11 | [Merge Two Sorted Linked Lists](https://leetcode.com/problems/merge-two-sorted-lists/)| 21 | Link |
-| 12 | [Best time to buy and sell stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)| 121 | Link |
+| 12 | [Best time to buy and sell stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)| 121 | [Link](https://github.com/joanne-wu-hoo/problem-solving/blob/master/leetcode/easy/121-best-time-to-buy-and-sell-stock.js) |
 
 **Medium**
 |     | Problem | Leetcode # | Solution |
