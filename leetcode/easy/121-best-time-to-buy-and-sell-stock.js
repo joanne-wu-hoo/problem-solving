@@ -18,32 +18,30 @@ var maxProfit = function(prices) {
 
 // another way
 
+var getBuyPrices = (prices) => {
+  let lowest = prices[0];
 
-var getSellPrices = (nums) => {
-    let sellPrices = new Array(nums.length);
-    let max = nums[nums.length-1];
-    
-    sellPrices[nums.length-1] = max;
-    
-    for (let i = nums.length-2; i >= 0; i--){
-        max = Math.max(max, nums[i+1]);
-        sellPrices[i] = max;
-    }
-    
-    return sellPrices;
+  let buyPrices = [lowest];
+
+  for (let price of prices){
+    lowest = Math.min(price,lowest)
+    buyPrices.push(lowest)
+  }
+
+  return buyPrices;
 }
 
-var maxProfit = function(prices) {
-    if (prices.length <= 1) return 0;
-    
-    const sellPrices = getSellPrices(prices);
+var buyAndSellStock = (prices) => {
+  if (prices.length <= 1) return 0;
 
-    // calculate profits
-    let maxProfit = 0;
-    for (let i = 0; i < prices.length; i++){
-        let profit = sellPrices[i] - prices[i];
-        maxProfit = Math.max(profit, maxProfit);
-    }
-    
-    return maxProfit;
-};
+  const buyPrices = getBuyPrices(prices);
+
+  let maxProfit = 0;
+
+  for (let i=0; i < prices.length; i++){
+    let profit = prices[i] - buyPrices[i]
+    maxProfit = Math.max(profit, maxProfit)
+  }
+
+  return maxProfit;
+}
