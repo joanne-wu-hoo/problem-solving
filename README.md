@@ -24,6 +24,7 @@
 | 5 | [Reverse linked list between m and n](https://leetcode.com/problems/reverse-linked-list-ii/submissions/)| 92  | Link      |
 | 6 | [Min parens to remove](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/submissions/)| 1249  | Link      |
 | 7 | [Linked List Cycle Detection](https://leetcode.com/problems/linked-list-cycle-ii/) | 142 | [Link](https://github.com/joanne-wu-hoo/problem-solving/blob/master/leetcode/easy/142-linked-list-cycle.js) |
+| 8 | [Search in rotated sorted array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | 33 | [Link](https://github.com/joanne-wu-hoo/problem-solving/blob/master/leetcode/easy/33-search-in-rotated-sorted-array.js) |
 
 
 **Reference**
