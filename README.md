@@ -25,6 +25,7 @@
 | 6 | [Min parens to remove](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/submissions/)| 1249  | [Link](https://github.com/joanne-wu-hoo/problem-solving/blob/master/leetcode/easy/1249-min-remove-to-make-valid-parens.js) |
 | 7 | [Linked List Cycle Detection](https://leetcode.com/problems/linked-list-cycle-ii/) | 142 | [Link](https://github.com/joanne-wu-hoo/problem-solving/blob/master/leetcode/easy/142-linked-list-cycle.js) |
 | 8 | [Search in rotated sorted array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | 33 | [Link](https://github.com/joanne-wu-hoo/problem-solving/blob/master/leetcode/easy/33-search-in-rotated-sorted-array.js) |
+| 9 | [Find min in rotated sorted array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array) | 153 | [Link](https://github.com/joanne-wu-hoo/problem-solving/blob/master/leetcode/easy/153-find-min-in-rotated-sorted-array.js) |
 
 
 **Reference**
