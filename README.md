@@ -21,7 +21,7 @@
 | 1 | [Add 2 Numbers (linked list)](https://leetcode.com/problems/add-two-numbers/)      | 2      |Link     |
 | 2 | [Longest substring without repeating letters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)    | 3    | Link      |
 | 3 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/)   | 12   | Link      |
-| 4 | [First & last in sorted array ](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | 34   | Link      |
+| 4 | [First & last in sorted array ](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | 34   | [Link](https://github.com/joanne-wu-hoo/problem-solving/blob/master/leetcode/easy/34-find-first-and-last-in-sorted-arr.js)      |
 | 5 | [Reverse linked list between m and n](https://leetcode.com/problems/reverse-linked-list-ii/submissions/)| 92  | Link      |
 | 6 | [Min parens to remove](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/submissions/)| 1249  | [Link](https://github.com/joanne-wu-hoo/problem-solving/blob/master/leetcode/easy/1249-min-remove-to-make-valid-parens.js) |
 | 7 | [Linked List Cycle Detection](https://leetcode.com/problems/linked-list-cycle-ii/) | 142 | [Link](https://github.com/joanne-wu-hoo/problem-solving/blob/master/leetcode/easy/142-linked-list-cycle.js) |
