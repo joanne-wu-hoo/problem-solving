@@ -1,6 +1,6 @@
 // DFS w/ stack (LIFO) so push and pop
-const dfsFind = (val) => {
-  let toVisitStack = [];
+const dfsFind = (root, val) => {
+  let toVisitStack = [root];
 
   while (toVisitStack.length){
     let current = toVisitStack.pop();
@@ -16,15 +16,15 @@ const dfsFind = (val) => {
 }
 
 // BFS w/ queue (FIFO) so push and unshift 
-const bfsFind = (val) => {
-  let toVisitQueue = [];
+const bfsFind = (root, val) => {
+  let toVisitQueue = [root];
 
   while (toVisitQueue.length){
     let current = toVisitQueue.unshift();
 
     if (current.val === val) return true;
 
-    for (let child of current){
+    for (let child of current.children){
       toVisitQueue.push(child)
     }
   }
