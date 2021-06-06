@@ -7,9 +7,9 @@
 // When we're at the root, we have 1 node to visit -- so our numNodesToVisit = 1
 // While numNodesToVisit > 0:
 // - Add values to our currentLevel [] 
-// - Keep on adding to our toVisit stack as normal
+// - Keep on adding to our toVisit queue as normal
 // When numNodesToVisit = 0, we've finished a level:
-// - numNodesToVisit for the next level is now the length of the toVisit stack
+// - numNodesToVisit for the next level is now the length of the toVisit queue
 // - Add currentLevel[] to output[]
 
 var levelOrder = function(root) {
