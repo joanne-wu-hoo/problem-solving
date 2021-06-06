@@ -29,6 +29,7 @@
 | 9 | [Find min in rotated sorted array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array) | 153 | [Link](https://github.com/joanne-wu-hoo/problem-solving/blob/master/leetcode/easy/153-find-min-in-rotated-sorted-array.js) |
 | 10 | [Remove dups from sorted array, allowing numbers to appear at most twice](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | 80 | [Link](https://github.com/joanne-wu-hoo/problem-solving/blob/master/leetcode/easy/80-remove-dups-from-sorted-array-ii.js) |
 | 11 | [Longest consecutive sequence](https://leetcode.com/problems/longest-consecutive-sequence/s) | 128 | [Link](https://github.com/joanne-wu-hoo/problem-solving/blob/master/leetcode/easy/128-longest-consecutive-sequence.js) |
+| 12 | [Binary tree level order traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | 102 | [Link](https://github.com/joanne-wu-hoo/problem-solving/blob/master/leetcode/easy/102-binary-tree-level-order-traversal.js) |
 
 
 **Reference**
