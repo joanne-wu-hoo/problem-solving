@@ -1,10 +1,15 @@
 // https://leetcode.com/problems/container-with-most-water/
 
-// Initialize left pointer at 0 and right pointer at end of array
-
 // Area = height * width
 // Height = min of values
 // Width = dif in indices
+
+// Initialize left pointer at 0 and right pointer at end of array
+// While left < right
+// Calc area, get maxArea
+// If the left value is smaller, left++
+// If the right value is smaller, right--
+
 
 var maxArea = (nums) => {
     if (nums.length <= 1) return 0;
