@@ -31,7 +31,7 @@
 | 11 | [Longest consecutive sequence](https://leetcode.com/problems/longest-consecutive-sequence/s) | 128 | [Link](https://github.com/joanne-wu-hoo/problem-solving/blob/master/leetcode/easy/128-longest-consecutive-sequence.js) |
 | 12 | [Binary tree level order traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | 102 | [Link](https://github.com/joanne-wu-hoo/problem-solving/blob/master/leetcode/easy/102-binary-tree-level-order-traversal.js) |
 | 13 | [Binary tree right side view](https://leetcode.com/problems/binary-tree-right-side-view/) | 199 | [Link](https://github.com/joanne-wu-hoo/problem-solving/blob/master/leetcode/easy/199-binary-tree-right-side-view.js) |
-| 14 | [Number of islands](https://leetcode.com/problems/number-of-islands/) | 200 | [Link](https://github.com/joanne-wu-hoo/problem-solving/blob/master/leetcode/easy/200-num-islands.js) |
+| 14 | [Number of islands (2D arrays)](https://leetcode.com/problems/number-of-islands/) | 200 | [Link](https://github.com/joanne-wu-hoo/problem-solving/blob/master/leetcode/easy/200-num-islands.js) |
 
 **Reference**
 | Description | Code |
