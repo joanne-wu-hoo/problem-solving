@@ -55,5 +55,7 @@ http://curric.rithmschool.com/r18/exercises/prob-divide-conquer/
 http://curric.rithmschool.com/r18/exercises/prob-sliding-window/solution/index.html
 
 Dynamic programming:
+
 https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/
+
 https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/discuss/508001/Javascript-DP-Solution-with-comments
