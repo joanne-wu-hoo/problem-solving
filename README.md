@@ -14,6 +14,7 @@
 | 11 | [Merge Two Sorted Linked Lists](https://leetcode.com/problems/merge-two-sorted-lists/)| 21 | Link |
 | 12 | [Best time to buy and sell stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)| 121 | [Link](https://github.com/joanne-wu-hoo/problem-solving/blob/master/leetcode/easy/121-best-time-to-buy-and-sell-stock.js) |
 | 13 | [Maximum subarray](https://leetcode.com/problems/maximum-subarray/) | 53 | [Link](https://github.com/joanne-wu-hoo/problem-solving/blob/master/leetcode/easy/53-max-subarray.js) |
+| 14 | [Search insert position](https://leetcode.com/problems/search-insert-position/) | 35 | [Link](https://github.com/joanne-wu-hoo/problem-solving/blob/master/leetcode/easy/35-search-insert-position.js)
 
 **Medium**
 |     | Problem | Leetcode # | Solution |
@@ -34,6 +35,7 @@
 | 14 | [Number of islands (2D arrays)](https://leetcode.com/problems/number-of-islands/) | 200 | [Link](https://github.com/joanne-wu-hoo/problem-solving/blob/master/leetcode/easy/200-num-islands.js) |
 | 15 | [Container with most water](https://leetcode.com/problems/container-with-most-water/) | 11 | [Link](https://github.com/joanne-wu-hoo/problem-solving/blob/master/leetcode/easy/11-container-with-most-water.js) |
 | 16 | [Minimum size subarray sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | 209 | [Link](https://github.com/joanne-wu-hoo/problem-solving/blob/master/leetcode/easy/209-minimum-size-subarray-sum.js) |
+| 17 | [Set matrix zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | 73 | [Link](https://github.com/joanne-wu-hoo/problem-solving/blob/master/leetcode/easy/73-set-matrix-zeroes.js) |
 
 **Reference**
 | Description | Code |
