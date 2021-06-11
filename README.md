@@ -56,6 +56,10 @@ http://curric.rithmschool.com/r18/exercises/prob-divide-conquer/
 
 http://curric.rithmschool.com/r18/exercises/prob-sliding-window/solution/index.html
 
+http://curric.rithmschool.com/r18/lectures/dsa-recursion/
+
+http://curric.rithmschool.com/r18/exercises/dsa-recursion/
+
 Dynamic programming:
 
 https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/
