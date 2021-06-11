@@ -45,6 +45,7 @@
 | 2D Array BFS Traversal | [Link](https://github.com/joanne-wu-hoo/problem-solving/blob/master/2d-array-bfs-traversal.js) |
 | Tree Traversal | [Link](https://github.com/joanne-wu-hoo/problem-solving/blob/master/tree-traversal.js)|
 | Tree DFS Traversal | [Link](https://github.com/joanne-wu-hoo/problem-solving/blob/master/tree-dfs-traversal.js) |
+| Reverse Linked List | [Link](https://github.com/joanne-wu-hoo/problem-solving/blob/master/reverse-linked-list.js) |
 | Frequency counter | [Link](https://github.com/joanne-wu-hoo/problem-solving/blob/master/using-freq-map.js) |
 | Logic truth table | [Link](https://github.com/joanne-wu-hoo/problem-solving/blob/master/logic-truth-table) |
 | Max subarray of specified length | [Link](https://github.com/joanne-wu-hoo/problem-solving/blob/master/max-sum-of-contiguous-sub-array-of-certain-length.js) |
