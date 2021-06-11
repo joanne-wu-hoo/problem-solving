@@ -2,29 +2,29 @@
 
 // https://leetcode.com/problems/merge-two-sorted-lists/discuss/341711/Clean-Javascript
 
-var mergeTwoLists = (l1, l2) => {
-  let newList = new ListNode();
-  let head = newList;
-  
+function mergeTwoLists(l1, l2){
+  if (!l1 && !l2) return [];
+
+  let list = new ListNode();
+  let head = list;
+
   while (l1 && l2){
-    newList.next = new ListNode();
     if (l1.val <= l2.val){
-      newList.next.val = l1.val;
-      l1 = l1.next;   
+      // l1 is smaller, so add l1 and increment l1
+      list.next = new ListNode(l1.val);
+      l1 = l1.next;
     } else {
-      newList.next.val = l2.val;
-      l2 = l2.next; 
+      // l2 is smaller, so add l2.val and increment l2
+      list.next = new ListNode(l2.val)
+      l2 = l2.next;
     }
-    newList = newList.next
+
+    list = list.next;
   }
-  
-  if (l1 === null){
-    newList.next = l2;
-  } 
-  
-  if (l2 === null){
-    newList.next = l1;
-  }
-  
+
+  // at the end, add whatever list is leftover
+  list.next = l1 || l2;
+
   return head.next;
 }
+
