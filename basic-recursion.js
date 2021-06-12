@@ -31,3 +31,14 @@ function everyOther(str, i=0, processedStr="") {
 }
 
 // everyOther('abcdefghijk') // acegik
+
+
+
+/** everyThird: given an array of numbers, create a new list with every third number */
+function everyThird(nums, i=2, output=[]){
+  if (i >= nums.length) return output;
+  
+  output.push(nums[i]);
+  
+  return everyThird(nums, i+3, output)
+}
