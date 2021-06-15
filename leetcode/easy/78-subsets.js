@@ -23,7 +23,6 @@ function subsets(nums){
 // recursive way
 var subsets = function(nums) {
     let result = [];
-    dfs([], 0);
     
     function dfs(current, index){
         result.push(current);
@@ -32,5 +31,7 @@ var subsets = function(nums) {
         }
     }
     
+    dfs([], 0);
+
     return result;
 };
