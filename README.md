@@ -37,6 +37,7 @@
 | 15 | [Array: Container with most water](https://leetcode.com/problems/container-with-most-water/) | 11 | [Link](https://github.com/joanne-wu-hoo/problem-solving/blob/master/leetcode/easy/11-container-with-most-water.js) |
 | 16 | [Array / Sliding Window: Minimum size subarray sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | 209 | [Link](https://github.com/joanne-wu-hoo/problem-solving/blob/master/leetcode/easy/209-minimum-size-subarray-sum.js) |
 | 17 | [2D Array: Set matrix zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | 73 | [Link](https://github.com/joanne-wu-hoo/problem-solving/blob/master/leetcode/easy/73-set-matrix-zeroes.js) |
+| 18 | [Subsets](https://leetcode.com/problems/subsets/) | 78 | [Link](https://github.com/joanne-wu-hoo/problem-solving/blob/master/leetcode/easy/78-subsets.js) |
 
 **Reference**
 | Description | Code |
