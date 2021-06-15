@@ -18,3 +18,19 @@ function subsets(nums){
 
 // Image explanining approach
 // https://user-images.githubusercontent.com/9150788/76787122-523f3300-67b0-11ea-8817-e70df9d99987.png
+
+
+// recursive way
+var subsets = function(nums) {
+    let result = [];
+    dfs([], 0);
+    
+    function dfs(current, index){
+        result.push(current);
+        for(let i = index; i < nums.length; i++) {
+            dfs(current.concat(nums[i]), i + 1);
+        }
+    }
+    
+    return result;
+};
