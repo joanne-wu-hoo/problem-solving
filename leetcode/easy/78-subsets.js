@@ -16,4 +16,5 @@ function subsets(nums){
     return output;
 }
 
-
+// Image explanining approach
+// https://user-images.githubusercontent.com/9150788/76787122-523f3300-67b0-11ea-8817-e70df9d99987.png
