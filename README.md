@@ -44,6 +44,7 @@
 | 18 | [Subsets](https://leetcode.com/problems/subsets/) | 78 | [Link](https://github.com/joanne-wu-hoo/problem-solving/blob/master/leetcode/easy/78-subsets.js) |
 | 19 | [Permutations](https://leetcode.com/problems/permutations/) | 46 | [Link](https://github.com/joanne-wu-hoo/problem-solving/blob/master/leetcode/easy/46-permutations.js) |
 | 20 | [Generate Parens](https://leetcode.com/problems/generate-parentheses/) | 22 | [Link](https://github.com/joanne-wu-hoo/problem-solving/blob/master/leetcode/easy/22-generate-parens.js) |
+| 21 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | 56 | [Link](https://github.com/joanne-wu-hoo/problem-solving/blob/master/leetcode/easy/56-merge-intervals.js) |
 
 **Reference**
 | Description | Code |
