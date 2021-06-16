@@ -47,6 +47,8 @@ var generateParenthesis = function(n) {
 };
 
 
+// nice clean solution: https://leetcode.com/problems/generate-parentheses/discuss/197602/JavaScript-Recursive-Solution-Beats-100
+
 // generateParenthesis(3)
 /** 
 Brainstorm
