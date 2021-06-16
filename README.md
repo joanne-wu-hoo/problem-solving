@@ -16,6 +16,8 @@
 | 13 | [Array: Maximum subarray](https://leetcode.com/problems/maximum-subarray/) | 53 | [Link](https://github.com/joanne-wu-hoo/problem-solving/blob/master/leetcode/easy/53-max-subarray.js) |
 | 14 | [Binary Search: Search insert position](https://leetcode.com/problems/search-insert-position/) | 35 | [Link](https://github.com/joanne-wu-hoo/problem-solving/blob/master/leetcode/easy/35-search-insert-position.js)
 | 15 | [Array: Best time to buy and sell stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | 122 | [Link](https://github.com/joanne-wu-hoo/problem-solving/blob/master/leetcode/easy/122-best-time-to-buy-and-sell-stock-ii.js) |
+| 16 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | 110 | [Link](https://github.com/joanne-wu-hoo/problem-solving/blob/master/leetcode/easy/110-balanced-binary-tree.js) | 
+| 17 | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) | 257 | [Link](https://github.com/joanne-wu-hoo/problem-solving/blob/master/leetcode/easy/110-balanced-binary-tree.js) |
  
 **Medium**
 |     | Problem | Leetcode # | Solution |
