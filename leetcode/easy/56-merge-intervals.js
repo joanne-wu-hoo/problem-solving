@@ -27,6 +27,7 @@ function merge(intervals){
 }
 
 
+// https://leetcode.com/problems/merge-intervals/discuss/716744/JavaScript-Clean-Code
 
 
 
