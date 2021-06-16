@@ -19,6 +19,7 @@
 | 16 | [Trees: Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | 110 | [Link](https://github.com/joanne-wu-hoo/problem-solving/blob/master/leetcode/easy/110-balanced-binary-tree.js) | 
 | 17 | [Trees: Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) | 257 | [Link](https://github.com/joanne-wu-hoo/problem-solving/blob/master/leetcode/easy/110-balanced-binary-tree.js) |
 | 18 | [Trees: Avg of levels](https://leetcode.com/problems/average-of-levels-in-binary-tree/) |  637 | [Link](https://github.com/joanne-wu-hoo/problem-solving/blob/master/leetcode/easy/637-avg-of-levels-in-binary-tree.js) |
+| 19 | [Strings: Valid anagram](https://leetcode.com/problems/valid-anagram/) | 242 | [Link](https://github.com/joanne-wu-hoo/problem-solving/blob/master/leetcode/easy/242-valid-anagram.js) |
  
 **Medium**
 |     | Problem | Leetcode # | Solution |
