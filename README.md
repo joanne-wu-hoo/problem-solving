@@ -76,3 +76,6 @@ Dynamic programming:
 https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/
 
 https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/discuss/508001/Javascript-DP-Solution-with-comments
+
+Graph traversal:
+https://fireship.io/courses/javascript/interview-graphs/
