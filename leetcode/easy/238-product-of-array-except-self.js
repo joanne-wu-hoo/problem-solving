@@ -22,3 +22,6 @@ var productExceptSelf = function(nums) {
     
     return products;
 };
+
+
+// https://leetcode.com/problems/product-of-array-except-self/discuss/694266/Javascript-Solution-(No-Division)-(With-Explanation)
