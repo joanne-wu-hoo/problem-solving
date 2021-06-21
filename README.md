@@ -79,3 +79,8 @@ https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/disc
 
 Graph traversal:
 https://fireship.io/courses/javascript/interview-graphs/
+
+Characteristics of problems that can be solved by sliding window method:
+* If a wider scope of the sliding window is valid, the narrower scope of that wider scope is valid mush hold.
+* If a narrower scope of the sliding window is invalid, the wider scope of that narrower scope is invalid mush hold.
+
