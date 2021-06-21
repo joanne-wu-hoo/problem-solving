@@ -24,6 +24,36 @@ const lengthOfLongestSubstring = function(s){
   return maxLength;
 }
 
+function lengthOfLongestSubstring(s){
+    let maxLength = 0;
+    let left = 0;    
+    let right = 0;
+    let seen = new Set(); // set of letters between left and right pointer NOT including right
+    
+    while (right < s.length){
+        let currentLetter = s[right];
+        
+        if (seen.has(currentLetter)){
+            seen.delete(s[left]);
+            left++;
+        } else {
+            seen.add(s[right]);
+            maxLength = Math.max(maxLength, right-left+1); // need to calculate length BEFORE incrementing right
+            right++; // its okay to increment this bc our set is EXCLUSIVE of right
+        }
+        // if we've seen the letter
+        // - remove the left most letter from set
+        // - left++
+        
+        // if we have not seen the letter 
+        // - add the letter to set,
+        // - calc new maxLength
+        // - right++
+    }
+    
+    return maxLength;
+}
+
 /** Another way
 Still sliding window with left and right initialized at 0, move right out, when you see a duplicate letter, then we need to move left in
 But instead of using a set, use an object that maps each letter to the index where the next sliding window would start
