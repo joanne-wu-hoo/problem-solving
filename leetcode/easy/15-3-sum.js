@@ -9,11 +9,10 @@ function threeSum(nums) {
   let output = [];
 
   for (let i = 0; i < nums.length; i++) {
-    console.log("in three sum evaluating: ", nums[i]);
-    // if i is above the target, we don't need to continue looking (since the array is sorted)
+    // if nums[i] is above the target, we don't need to continue looking (since the array is sorted)
     if (nums[i] > 0) return output;
 
-    // if the number is a duplicate, we also dont need to evaluate it
+    // if the number is a duplicate, we dont want to evaluate it (to avoid dups)
     if (nums[i] === nums[i - 1]) continue;
 
     // fix "num" as nums[i]
