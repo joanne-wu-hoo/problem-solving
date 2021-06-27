@@ -51,6 +51,7 @@
 | 24 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | 560 | [Link](https://github.com/joanne-wu-hoo/problem-solving/blob/master/leetcode/easy/560-count-subarrays-that-sum-to-target.js) |
 | 25 | [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/) | 253 | [Link](https://github.com/joanne-wu-hoo/problem-solving/blob/master/leetcode/easy/253-meeting-rooms-ii.js) |
 | 26 | [Game of Life](https://leetcode.com/problems/game-of-life/) | 289 | [Link](https://github.com/joanne-wu-hoo/problem-solving/blob/master/leetcode/easy/289-game-of-life.js) |
+| 27 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number) | 17 | [Link](https://github.com/joanne-wu-hoo/problem-solving/blob/master/leetcode/easy/17-letter-combos-of-phone-number.js) |
 
 **Reference**
 | Description | Code |
