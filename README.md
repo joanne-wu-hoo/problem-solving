@@ -50,6 +50,7 @@
 | 23 | [3 Sum](https://leetcode.com/problems/3sum/) | 15 | [Link](https://github.com/joanne-wu-hoo/problem-solving/blob/master/leetcode/easy/15-3-sum.js) |
 | 24 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | 560 | [Link](https://github.com/joanne-wu-hoo/problem-solving/blob/master/leetcode/easy/560-count-subarrays-that-sum-to-target.js) |
 | 25 | [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/) | 253 | [Link](https://github.com/joanne-wu-hoo/problem-solving/blob/master/leetcode/easy/253-meeting-rooms-ii.js) |
+| 26 | [Game of Life](https://leetcode.com/problems/game-of-life/) | 289 | [Link](https://github.com/joanne-wu-hoo/problem-solving/blob/master/leetcode/easy/289-game-of-life.js) |
 
 **Reference**
 | Description | Code |
