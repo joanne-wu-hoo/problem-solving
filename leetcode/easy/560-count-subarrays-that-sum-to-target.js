@@ -1,5 +1,7 @@
 // https://leetcode.com/problems/subarray-sum-equals-k/
 
+// oops this isn't actually solving the problem bc we don't want to sort
+
 var subarraySum = function(nums, k) {
     nums = nums.sort((a,b) => a-b);
     
