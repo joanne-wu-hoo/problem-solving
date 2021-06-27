@@ -48,6 +48,7 @@
 | 21 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | 56 | [Link](https://github.com/joanne-wu-hoo/problem-solving/blob/master/leetcode/easy/56-merge-intervals.js) |
 | 22 | [Product of array except self](https://leetcode.com/problems/product-of-array-except-self/) | 238 | [Link](https://github.com/joanne-wu-hoo/problem-solving/blob/master/leetcode/easy/238-product-of-array-except-self.js) |
 | 23 | [3 Sum](https://leetcode.com/problems/3sum/) | 15 | [Link](https://github.com/joanne-wu-hoo/problem-solving/blob/master/leetcode/easy/15-3-sum.js) |
+| 24 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | 560 | [Link](https://github.com/joanne-wu-hoo/problem-solving/blob/master/leetcode/easy/560-count-subarrays-that-sum-to-target.js) |
 
 **Reference**
 | Description | Code |
