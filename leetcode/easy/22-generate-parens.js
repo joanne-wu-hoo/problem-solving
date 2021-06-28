@@ -5,6 +5,30 @@
  * @return {string[]}
  */
 
+function generateParens(n) {
+  let output = [];
+
+  function genParensHelper(cur,numLeftParensRemaining,numRightParensRemaining) {
+    // base case
+    if (numLeftParensRemaining === 0 && numRightParensRemaining === 0) {
+      output.push(cur.join(""));
+    }
+
+    if (numRightParensRemaining > numLeftParensRemaining) {
+      genParensHelper(cur.concat(")"), numLeftParensRemaining, numRightParensRemaining - 1);
+    }
+
+    if (numLeftParensRemaining) {
+      genParensHelper(cur.concat("("), numLeftParensRemaining - 1, numRightParensRemaining);
+    }
+  }
+
+  genParensHelper(["("], n - 1, n);
+
+  return output;
+}
+
+// ------------------------------------------------
 
 var generateParenthesis = function(n) {    
     let output = [];
