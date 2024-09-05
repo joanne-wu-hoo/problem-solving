@@ -15,12 +15,12 @@ const dfsFind = (root, val) => {
   return false;
 }
 
-// BFS w/ queue (FIFO) so push and unshift 
+// BFS w/ queue (FIFO) so push and shift 
 const bfsFind = (root, val) => {
   let toVisitQueue = [root];
 
   while (toVisitQueue.length){
-    let current = toVisitQueue.unshift();
+    let current = toVisitQueue.shift();
 
     if (current.val === val) return true;
 
